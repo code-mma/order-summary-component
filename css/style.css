@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Red Hat Display";
-    src: url(../fonts/RedHatDisplay-VariableFont_wght.ttf);
+    src: url(./fonts/RedHatDisplay-VariableFont_wght.ttf);
 }
 
 body {
