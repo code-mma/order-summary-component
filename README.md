@@ -46,7 +46,7 @@ This is my first challenge from the Frontend Mentor wherein I practiced my Flexb
 
 ### Continued development
 
-Refining this project in the future includes adding enhancements with Javascript.
+Refining this project in the future by editing errors flagged by the Frontend Mentor.
 
 ### Useful resources
 
