@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repository](https://github.com/code-mma/order-summary-component)
+- Solution URL: [Frontend Mentor Page](https://www.frontendmentor.io/solutions/order-summary-card-solution-using-flexbox-gMtMetCgd)
 - Live Site URL: [Github Page](https://code-mma.github.io/order-summary-component/)
 
 ## My process
